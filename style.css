@@ -1,0 +1,134 @@
+*{
+    padding:0px;
+    margin: 0%;
+}
+.hamash{
+    display: flex;
+   
+}
+
+.div1{
+background-color:chocolate ;
+width: 50%;
+height: 729px;
+}
+.div1 i{
+    position: relative;
+    background-color:yellow;
+    padding: 30px 30px;
+    margin-left: 350px;
+    margin-top: 60px;
+    border-radius: 50%;
+}
+.color1{
+    margin-left: 150px;
+    background-color:white;
+    width: 60%;
+    height: 450px;
+    margin-top: -43px;
+    
+}
+.member1{
+   padding: 50px 110px; 
+   font-size: 18px;  
+}
+input[type="username"]{
+    width: 30%;
+    margin-left: 37px;
+    padding: 10px 125px;
+    font-size: 21px;
+    background-color: #eae7e7;
+    color:rgb(41, 40, 40);
+    border-radius: 5px;
+    cursor: pointer;
+    
+    
+}
+    
+input[type="password"]{
+    width: 30%;
+    margin-left: 37px; 
+    padding: 10px 125px;
+    font-size: 21px;
+    background-color: #eae7e7;
+    color:rgb(41, 40, 40);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+   .button1{
+    margin-left: 35px;
+    padding: 12px 160px;
+    font-size: 21px;
+    background-color: rgb(57, 57, 231);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+   
+   }
+   .Forgot{
+    margin-left: 120px;
+    margin-top: 25px;
+    font-size: 27px;
+    color: brown;
+   }
+
+
+
+   .div2{
+    background-color: aqua;
+    width: 50%;
+    height: 729px;
+   }
+   .div2 i{
+    position: relative;
+    background-color:yellow;
+    padding: 30px 30px;
+    margin-left: 310px;
+    margin-top: 60px;
+    border-radius: 50%;
+}
+   .color2{
+    margin-left: 120px;
+    margin-top: -45px;
+    background-color: white;
+    width: 60%;
+    height: 550px;
+   }
+   .reg{
+    padding: 50px 170px;
+    font-size: 38px;
+   }
+   input[type="confirm password"]{
+    width: 30%;
+    margin-left: 37px;
+    padding: 10px 125px;
+    font-size: 21px;
+    background-color: #eae7e7;
+    color:rgb(41, 40, 40);
+    border-radius: 5px;
+    cursor: pointer;
+   }
+   .button2{
+        margin-left: 35px;
+        padding: 12px 141px;
+        font-size: 21px;
+        background-color: rgb(57, 57, 231);
+        color: white;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+
+       
+       }
+    .member2{
+        padding: 25px 145px; 
+        font-size: 27px; 
+        color: brown; 
+       }
+      
+
+
+
+   
